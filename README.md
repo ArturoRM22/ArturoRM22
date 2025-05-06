@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi, I'm Arturo!
 
-<!--
-**ArturoRM22/ArturoRM22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Mexican student at **Tec de Monterrey**, currently studying **Computer Science**.
 
-Here are some ideas to get you started:
+## 💻 Favorite Programming Languages
+- C++
+- Python
+- Java
+- JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏃 Hobbies
+- Going to the gym
+- Running
+
+## 📂 Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArturoRM22)](https://github.com/anuraghazra/github-readme-stats)
+
+## 📂 Some projects
+
+### 🚀 Oracle Task Manager
+A team productivity tool designed to boost efficiency by 20%.  
+This is a school project where I focus on **backend development** and **CI/CD integration**.
+
+Main features:
+- Basic CRUD functionality for task management  
+- KPI tracking through visual **charts** to monitor team performance
+
+### 🌐 Caiinno Website Redesign
+A static website that provides a modern new look for the **think tank Caiinno**.  
+It's a complete redesign of their original site: [caiinno.org](https://www.caiinno.org/)
+
+### 🧠 XavioAI
+A web platform that uses **AI to generate personalized courses** on virtually any topic.  
+Features:
+- Course structure generation  
+- Interactive quizzes and activities  
+- Tailored learning experience
+
+## 📫 How to Reach Me
+- 📧 Email: [turorm_22@icloud.com](mailto:turorm_22@icloud.com)
+- 💼 LinkedIn: [Arturo Ramos Martínez](https://www.linkedin.com/in/arturo-ramos-mart%C3%ADnez-62a07328b/)
+
+Thanks for visiting my profile, stay hard!
